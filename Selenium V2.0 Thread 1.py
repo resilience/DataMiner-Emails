@@ -72,7 +72,8 @@ endline = 0
 # Temporary Storage created below :  HuntStorage-x.csv
 # This is used to remove blanks and create a file, acting as a short term backup, and an isolated state between
 # The input file and the working code.
-# It's essentially 'n clone that we can safely rip apart for parts.
+# It's essentially 'n cloned version of the output data that we can safely rip apart for parts
+# breaking emails apart that have garbage attached can sometimes be messy.
 
 # FUTURE:
 
